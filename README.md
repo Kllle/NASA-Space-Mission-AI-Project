@@ -6,6 +6,7 @@ Group Members:
 - Kaylee Auguillard
 - Duc Nguyen
 - Tales Araujo Leonidas
+
 Files Included:
 
 - PowerPoint: A presentation summarizing the project's key points, including the problem statement, objectives, technical components, and implementation plan.
